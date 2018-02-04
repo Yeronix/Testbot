@@ -1,0 +1,13 @@
+{
+  "name": "fstonehenge",
+  "version": "1.0.0",
+  "description": "testbot",
+  "main": "bot.js",
+  "repository": "git@github.com:yeronix/Testbot.git",
+  "author": "Owen",
+  "license": "MIT",
+  "dependencies": {
+    "discord.io": "^2.5.1",
+    "winston": "^2.3.1"
+  }
+}
